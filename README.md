@@ -57,7 +57,7 @@ me.say_hi()
 <td width="50%">
 
 ### 🎓 QuizSpark (with Rootcode)
-[![Demo](https://img.shields.io/badge/Demo-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](demo_link)
+[![Demo](https://img.shields.io/badge/Demo-00D9FF?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=QuizSpark)
 
 **AI-powered quiz generation system**
 - 🤖 Gemini AI + RAG + LangChain
@@ -71,8 +71,8 @@ me.say_hi()
 <td width="50%">
 
 ### 📚 DocuMind AI
-[![Demo](https://img.shields.io/badge/Demo-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](demo_link)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](github_link)
+[![Demo](https://img.shields.io/badge/Demo-00D9FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/DocuMind_AI/view)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DasunLakshanAththanayaka/DocuMind-AI)
 
 **RAG-powered document chat system**
 - 💬 Context-aware conversation memory
@@ -89,8 +89,8 @@ me.say_hi()
 <td width="50%">
 
 ### 💰 Laptop Price Predictor
-[![Demo](https://img.shields.io/badge/Demo-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](demo_link)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](github_link)
+[![Demo](https://img.shields.io/badge/Demo-00D9FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/Laptop_Price_Predictor/view)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DasunLakshanAththanayaka/Laptop_price_predictor)
 
 **ML-powered price prediction**
 - 🎯 Random Forest + GridSearchCV
@@ -104,7 +104,7 @@ me.say_hi()
 <td width="50%">
 
 ### 🏋️ SmartFit (Ongoing)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](github_link)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avishka-m/gym_backend)
 
 **Agentic AI fitness assistant**
 - 🗣️ Voice-based workout transcription
